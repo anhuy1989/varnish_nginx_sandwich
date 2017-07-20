@@ -1,2 +1,2 @@
-# varnish_nginx_ssl_sandwich_magento
+# varnish_nginx_sandwich
 Varnish NGINX SSL Termination sandwich for Magento site
